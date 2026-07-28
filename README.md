@@ -32,7 +32,8 @@ The two tables are joined on **Order ID** in a **one-to-many** relationship (`Or
 
 ## 🧩 Data Model
 
-![Data Model](screenshots/data-model.png)
+<img width="458" height="239" alt="data-model" src="https://github.com/user-attachments/assets/5faa6fcd-8dfd-4461-9599-7348427177b2" />
+
 
 - **Orders (1)** → **Details (\*)** — one order can have many detail records
 - A DAX measure **AOV (Average Order Value)** is calculated in the `Details` table
@@ -118,8 +119,8 @@ Demo-dashboard/
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+Adarsh Sanjay Thakare
+[LinkedIn](www.linkedin.com/in/adarsh-thakare16) · [Portfolio](#) · [Email](adarshthakare16@gmail.com)
 
 ---
 
