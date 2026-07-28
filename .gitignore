@@ -1,1 +1,8 @@
+# Power BI
+*.pbix.bak
+~$*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
 
